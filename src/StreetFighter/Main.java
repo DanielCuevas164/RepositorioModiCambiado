@@ -13,6 +13,8 @@ public class Main {
 		inicializarPersonajes();
 		System.out.println("Selecciona personaje rival: ");
 		inicializarPersonajes();
+		System.out.println("Estoy cambiando el codigo");
+		
 		
 		simulaCombate(personaje1, personaje2);
 		
